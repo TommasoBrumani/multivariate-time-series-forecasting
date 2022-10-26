@@ -24,4 +24,4 @@ The team attempted to employ both direct forecasting and autoregression, decreas
 
 ## Folder Structure
 * `report`: the report detailing the various approaches that were tried as part of the development of the model
-* `src`: the `jupyter notebook` code for the final model
+* `src`: the `jupyter notebook` code for the final model, as well as the code for some of the previous discarded attempts
